@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<openerp>
+    <data>
+        <template id="az_dynamic_listview_templates" name="listview_dynamic_0705_v8 templates" inherit_id="web.assets_backend">
+            <xpath expr="." position="inside">
+                <link rel="stylesheet" type="text/css" href="/listview_dynamic_0705_v8/static/src/css/dynamic_listview.css" />
+                <script type="text/javascript" src="/listview_dynamic_0705_v8/static/src/js/view_list_inherit.js"></script>
+            </xpath>
+        </template>
+    </data>
+</openerp>
