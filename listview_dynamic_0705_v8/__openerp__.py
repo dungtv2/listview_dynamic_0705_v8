@@ -1,17 +1,17 @@
 {
-    'name': 'SOUND OK',
+    'name': 'Dynamic ListView Advance',
     'summary': '',
     'version': '1.0',
     'category': 'Web',
     'description': """
-        Dynamic ListView Advance Odoo8
+        Dynamic ListView Advance
     """,
     'author': "truongdung.vd@gmail.com",
     'depends': ['web'],
     'data': ['views/templates.xml',
              'security/show_fields_security.xml',
              'security/ir.model.access.csv'],
-    'price': 99,
+    'price': 119,
     'currency': 'EUR',
     'installable': True,
     'auto_install': False,
